@@ -83,8 +83,8 @@ Here are visualizations showcasing the training process, Q-table analysis, and t
    ![Distribution of Maximum Q-Values](https://github.com/user-attachments/assets/d09e7b79-bf1c-4c12-a261-1c969481d8e5)
 
 4. **MountainCar Agent in Action**  
-   Watch the trained agent perform in the MountainCar environment as it attempts to reach the goal.  
-   ![MountainCar Agent in Action]()
+   Watch the trained agent perform in the MountainCar environment as it attempts to reach the goal.
+   ![MountainCar Agent in Action](https://github.com/alienx5499/Mountaincar/blob/main/assets/MountainCar%20Agent%20in%20Action.mov?raw=true)
    
 
 
