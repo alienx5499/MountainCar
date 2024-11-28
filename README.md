@@ -84,11 +84,8 @@ Here are visualizations showcasing the training process, Q-table analysis, and t
 
 4. **MountainCar Agent in Action**  
    Watch the trained agent perform in the MountainCar environment as it attempts to reach the goal.  
+   ![MountainCar Agent in Action](https://github.com/user-attachments/assets/461d68fa-96c9-47d3-ab58-6cc98dfe8afc)  
 
-   ![MountainCar Agent in Action](https://github.com/user-attachments/assets/f36d2e97-bef0-4b3f-b6c0-0a07d74b6a66?raw=true)  
-
-   [Click here to watch the video](https://github.com/alienx5499/MountainCar/blob/main/Assets/MountainCar%20Agent%20in%20Action.mov?raw=true)
-    
 ---
 
 ## **⚙️ Setup Instructions**
