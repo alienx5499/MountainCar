@@ -14,7 +14,7 @@ state_bounds = list(zip(env.observation_space.low, env.observation_space.high))
 state_bins = [np.linspace(b[0], b[1], num_bins[i] - 1) for i, b in enumerate(state_bounds)]
 
 #! Define the path to the trained Q-table file
-q_table_path = os.path.join("MountainCar", "q_table.pkl")
+q_table_path = os.path.join("ModelData", "q_table.pkl")
 
 #! Load the trained Q-table from the file
 try:

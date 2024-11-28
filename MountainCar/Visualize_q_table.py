@@ -75,8 +75,8 @@ def analyze_q_table(q_table):
 
 if __name__ == "__main__":
     #! Define file paths for training metrics and Q-table
-    metrics_file = os.path.join("MountainCar", "training_metrics.pkl")
-    q_table_file = os.path.join("MountainCar", "q_table.pkl")
+    metrics_file = os.path.join("ModelData", "training_metrics.pkl")
+    q_table_file = os.path.join("ModelData", "q_table.pkl")
 
     #! Load training metrics
     try:

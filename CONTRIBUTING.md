@@ -66,12 +66,13 @@ By participating in this project, you agree to uphold our [Code of Conduct](CODE
 ---
 
 ## **Project Structure**
-1. **`MountainCar.py`**: Script for rendering the trained agent and observing its performance.
-2. **`MountainCarAlgorithm.py`**: Core Q-learning algorithm for training the agent.
-3. **`Visualize_q_table.py`**: Scripts to visualize training metrics and analyze the Q-table.
-4. **`MountainCar/`**:  
+1. **`MountainCar/`**:  
+   - **`MountainCar.py`**: Script for rendering the trained agent and observing its performance.
+   - **`MountainCarAlgorithm.py`**: Core Q-learning algorithm for training the agent.
+   - **`Visualize_q_table.py`**: Scripts to visualize training metrics and analyze the Q-table.
+2. **`ModelData/`**:  
    - Contains the pre-trained Q-table (`q_table.pkl`) and training metrics (`training_metrics.pkl`).
-   - If you prefer, you can run `MountainCarAlgorithm.py` to generate your own Q-table and metrics.
+   - If you prefer, you can run `MountainCar/MountainCarAlgorithm.py` to generate your own Q-table and metrics.
 
 ---
 

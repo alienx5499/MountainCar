@@ -28,6 +28,7 @@ MountainCar is a classic reinforcement learning environment from OpenAI Gym desi
 - **MountainCar.py**: A script for rendering and evaluating a trained Q-learning agent.
 - **MountainCarAlgorithm.py**: The Q-learning implementation for training the agent.
 - **Visualize_q_table.py**: Tools for analyzing and visualizing the trained Q-table.
+- **ModelData/**: A folder containing the pre-trained Q-table (`q_table.pkl`) and training metrics (`training_metrics.pkl`).
 
 > *"Conquer the MountainCar challenge and understand the power of Q-learning!"*
 
@@ -64,6 +65,9 @@ MountainCar is a classic reinforcement learning environment from OpenAI Gym desi
 - **MountainCar.py**: Script to render the agent and observe performance.
 - **MountainCarAlgorithm.py**: Core Q-learning training logic.
 - **Visualize_q_table.py**: Analyze and visualize Q-table and training metrics.
+- **ModelData/**: Folder containing:
+  - `q_table.pkl`: Pre-trained Q-table.
+  - `training_metrics.pkl`: Saved training metrics for analysis.
 
 ---
 

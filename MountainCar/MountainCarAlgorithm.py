@@ -122,13 +122,13 @@ for episode in range(num_episodes):
 env.close()  #! Close the environment after training is complete
 
 #! Save the Q-table to a file
-q_table_path = os.path.join("MountainCar", "q_table.pkl")
+q_table_path = os.path.join("ModelData", "q_table.pkl")
 os.makedirs("MountainCar", exist_ok=True)  #! Ensure the save directory exists
 with open(q_table_path, "wb") as f:
     pickle.dump(q_table, f)
 
 #! Save training metrics for analysis
-metrics_path = os.path.join("MountainCar", "training_metrics.pkl")
+metrics_path = os.path.join("ModelData", "training_metrics.pkl")
 with open(metrics_path, "wb") as f:
     pickle.dump((rewards_per_episode, epsilon_values), f)
 
