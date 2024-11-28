@@ -16,7 +16,7 @@
 ![📂 GitHub pull requests](https://img.shields.io/github/issues-pr/alienx5499/MountainCar)
 ![💾 GitHub code size](https://img.shields.io/github/languages/code-size/alienx5499/MountainCar)
 
-🔗 **[Visit the Live Demo](#)** | 📑 **[Explore Documentation](#)**
+🔗 **[Visit the Live Demo](#-screenshots)** | 📑 **[Explore Documentation](#)**
 
 </div>
 
