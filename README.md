@@ -171,7 +171,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 *We value your input! Share your thoughts through [GitHub Issues](https://github.com/alienx5499/MountainCar/issues).*
 
 
-🔗 **[Visit the Live Demo](#)** | 📑 **[Explore Documentation](#)** 
+🔗 **[Visit the Live Demo](#-screenshots)** | 📑 **[Explore Documentation](#)** 
 
 ---
 
